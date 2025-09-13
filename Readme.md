@@ -28,7 +28,7 @@
 - 💻 Working on **UniApi** & **AI-powered travel planner** improvements  
 - 📘 Learning **Business Anaylist**, **Clean Architecture**, **Performance Optimization**  
 - 🌍 Passionate about **Open Source**, **Clean Code**, **Developer Experience**  
-- ⚡ Interested in **High-performance web apps**, **Modern UI/UX**, **System Architecture** ,**Business Anaylist** 
+- ⚡ Interested in **High-performance web apps**, **Modern UI/UX**, **System Architecture** ,**Business Analytics** 
 
 ---
 
