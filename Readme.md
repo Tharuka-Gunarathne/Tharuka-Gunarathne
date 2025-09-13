@@ -4,7 +4,7 @@
 
 <!-- HEADER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Tharuka%20Gunarathne&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=BIS%20Undergraduate%20|%20Full%20Stack%20Developer&descAlignY=55&descSize=20" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Tharuka%20Gunarathne&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=BIS%20Undergraduate%20| />
   
   <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=FF6BD6&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+profile;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies" alt="Animated typing introduction" />
@@ -58,7 +58,6 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" />
@@ -86,10 +85,10 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" width="25" /> Let's Connect
 
 <div align="center">
-  <a href="mailto:tharuka.gunarathne@example.com">
+  <a href="mailto:tharukagunaratne2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF6BD6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/tharuka-gunarathne">
+  <a href="https://www.linkedin.com/in/tharuka-gunarathne-5a16572b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
