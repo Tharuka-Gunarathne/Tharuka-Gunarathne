@@ -4,8 +4,9 @@
 
 <!-- HEADER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Tharuka%20Gunarathne&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=BIS%20Undergraduate%20| />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Tharuka%20Gunarathne&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=BIS%20Undergraduate%20|%20Full%20Stack%20Developer&descAlignY=55&descSize=20" />
   
+
   <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=FF6BD6&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+profile;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies" alt="Animated typing introduction" />
   </h1>
