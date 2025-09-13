@@ -20,15 +20,15 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+## <img src="https://68.media.tumblr.com/a678388f58cd778677ed091092cb482a/tumblr_ookctcEDNe1qcnukpo1_400.gif" width="50"> About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🎓 Currently studying **Business Information Systems** at University of Sri Jayewardenepura  
 - 💻 Working on **UniApi** & **AI-powered travel planner** improvements  
-- 📘 Learning **Advanced TypeScript patterns**, **Clean Architecture**, **Performance Optimization**  
+- 📘 Learning **Business Anaylist**, **Clean Architecture**, **Performance Optimization**  
 - 🌍 Passionate about **Open Source**, **Clean Code**, **Developer Experience**  
-- ⚡ Interested in **High-performance web apps**, **Modern UI/UX**, **System Architecture**  
+- ⚡ Interested in **High-performance web apps**, **Modern UI/UX**, **System Architecture** ,**Business Anaylist** 
 
 ---
 
@@ -47,7 +47,7 @@
 
 ### Backend & Database
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
@@ -74,9 +74,12 @@
 </div>
 
 ---
+## 🐍 Contribution Snake
 
-## 🚀 Featured Projects
-*(Insert your project showcase here — can use tables, cards, or pinned repos.)*
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tharuka-Gunarathne/Tharuka-Gunarathne/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
 
 ---
 
