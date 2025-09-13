@@ -23,7 +23,7 @@
 
 ## <img src="https://68.media.tumblr.com/a678388f58cd778677ed091092cb482a/tumblr_ookctcEDNe1qcnukpo1_400.gif" width="50"> About Me
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🎓 Currently studying **Business Information Systems** at University of Sri Jayewardenepura  
 - 💻 Working on **UniApi** & **AI-powered travel planner** improvements  
